@@ -25,6 +25,8 @@
 		<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net6.0-maccatalyst'">14.0</SupportedOSPlatformVersion>-->
 		<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net6.0-android'">21.0</SupportedOSPlatformVersion>
 		<!--<SupportedOSPlatformVersion Condition="$(TargetFramework.Contains('-windows'))">10.0.18362.0</SupportedOSPlatformVersion>-->
+		<SupportedOSPlatformVersion Condition="$(TargetFramework.Contains('-windows'))">10.0.17763.0</SupportedOSPlatformVersion>
+		<TargetPlatformMinVersion Condition="$(TargetFramework.Contains('-windows'))">10.0.17763.0</TargetPlatformMinVersion>		
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -75,6 +77,24 @@
 		<PackageReference Include="Microsoft.Graphics.Win2D" Version="1.0.0.26-experimental1" />
 	</ItemGroup>
 
+	<ItemGroup>
+		<None Remove="Resources\BrookeWestSample.musicxml" />
+		<None Remove="Resources\Bravura.otf" />
+		<None Remove="Resources\bravura_metadata.bin" />
+		<None Remove="Resources\bravura_metadata.json" />
+		<None Remove="Resources\melody-damaged-repaired.mid" />
+		<None Remove="Resources\melody-damaged.json" />
+		<None Remove="Resources\melody-damaged.mid" />
+		<None Remove="Resources\melody-very-damaged-repaired.mid" />
+		<None Remove="Resources\melody-very-damaged.json" />
+		<None Remove="Resources\melody-very-damaged.mid" />
+		<None Remove="Resources\NotePredictor.zip" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Resources\melody-damaged.json" />
+	</ItemGroup>	
+	
 	<ItemGroup>
 	  <ProjectReference Include="..\Manufaktura.Controls.SMuFL\Manufaktura.Controls.SMuFL.csproj" />
 	  <ProjectReference Include="..\Manufaktura.Controls.XamarinFormsSkia\Manufaktura.Controls.XamarinFormsSkia.csproj" />
