@@ -22,11 +22,11 @@ The following is a preview of the first 10 rows of the dataset:
 
 ![image](https://user-images.githubusercontent.com/10437687/141131974-9a8cf169-e26f-4707-821b-e1d49ae7494e.png)
 
-**Chorale**: Indicates the song in the current row (1 is song #1, 2 is song #2, ...)
-**Key**: Indicates if the note in the row has any sharps or flats
-**Measure**: Indicates the section of the song/chorale in the current row (1 is first section, 2 is second section, ...)
-**Note**: Indicates the letter note; this is the Label since we want to predict missing notes
-**60, 61, 62, ... 79**: Indicates whether the note (number) is present in the same measure as the indicated note (letter); 0 = not present, 1 = present
+- **Chorale**: Indicates the song in the current row (1 is song #1, 2 is song #2, ...)
+- **Key**: Indicates if the note in the row has any sharps or flats
+- **Measure**: Indicates the section of the song/chorale in the current row (1 is first section, 2 is second section, ...)
+- **Note**: Indicates the letter note; this is the Label since we want to predict missing notes
+- **60, 61, 62, ... 79**: Indicates whether the note (number) is present in the same measure as the indicated note (letter); 0 = not present, 1 = present
 
 ## Additional Dependencies
 
