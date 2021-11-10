@@ -1,6 +1,8 @@
 # ML.NET + MAUI .NET Conf 2021 Source Code
 
-Source code from .NET Conf 2021 ML.NET presentation
+Source code from .NET Conf 2021 ML.NET presentation.
+
+MAUI app code can be found in the [transfer-app](https://github.com/luisquintanilla/dotnet-conf-2021-ml/tree/transfer-app).
 
 ## Setup
 
