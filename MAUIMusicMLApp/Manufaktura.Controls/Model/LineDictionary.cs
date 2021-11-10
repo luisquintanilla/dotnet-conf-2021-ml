@@ -1,0 +1,68 @@
+﻿/*
+ * Copyright 2018 Manufaktura Programów Jacek Salamon http://musicengravingcontrols.com/
+ * MIT LICENCE
+ 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
+to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+using System.Collections.Generic;
+
+namespace Manufaktura.Controls.Model
+{
+    /// <summary>
+    /// Dictionary that stores vertical location of lines in staves and systems.
+    /// </summary>
+    public class LineDictionary
+    {
+        private Dictionary<int, Dictionary<int, double[]>> innerDictionary = new Dictionary<int, Dictionary<int, double[]>>();
+
+        /// <summary>
+        /// Gets or sets line positions in specific system and staff
+        /// </summary>
+        /// <param name="system">System number</param>
+        /// <param name="staff">Staff number</param>
+        /// <returns>Array of vertical line positions</returns>
+        public double[] this[int system, int staff]
+        {
+            get
+            {
+                if (!innerDictionary.ContainsKey(system)) innerDictionary.Add(system, new Dictionary<int, double[]>());
+                if (!innerDictionary[system].ContainsKey(staff)) innerDictionary[system].Add(staff, new double[5]);
+                return innerDictionary[system][staff];
+            }
+            set
+            {
+                if (!innerDictionary.ContainsKey(system)) innerDictionary.Add(system, new Dictionary<int, double[]>());
+                if (!innerDictionary[system].ContainsKey(staff))
+                {
+                    innerDictionary[system].Add(staff, value);
+                    return;
+                }
+                innerDictionary[system][staff] = value;
+            }
+        }
+
+        public Dictionary<int, double[]> this[int system]
+        {
+            get
+            {
+                return innerDictionary[system];
+            }
+        }
+
+        /// <summary>
+        /// Clears the dictionary.
+        /// </summary>
+        public void Clear()
+        {
+            innerDictionary.Clear();
+        }
+    }
+}

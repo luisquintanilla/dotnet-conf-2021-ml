@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net6.0-android</TargetFrameworks>
+		<AssemblyVersion>1.1.0.0</AssemblyVersion>
+		<FileVersion>1.1.0.0</FileVersion>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<PackageProjectUrl>http://musicengravingcontrols.com/</PackageProjectUrl>
+		<PackageIconUrl>http://manufaktura-programow.pl/Images/ManufakturaSmaller.png</PackageIconUrl>
+		<RepositoryUrl>https://bitbucket.org/Ajcek/manufakturalibraries</RepositoryUrl>
+		<PackageTags>.net music notation controls</PackageTags>
+		<Version>1.1.3</Version>
+		<Description>Base class library for Manufaktura.Controls. Defines basic concepts of music such as rhythm, intervals, scales, pitches, etc.</Description>
+		<Copyright>Manufaktura programów Jacek Salamon 2018</Copyright>
+		<Authors>Jacek Salamon</Authors>
+		<Company>Manufaktura programów</Company>
+		<PackageReleaseNotes>Minor changes</PackageReleaseNotes>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Folder Include="Properties\" />
+	</ItemGroup>
+
+</Project>

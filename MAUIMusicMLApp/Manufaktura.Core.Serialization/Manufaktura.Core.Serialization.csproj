@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-android</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>http://musicengravingcontrols.com/</PackageProjectUrl>
+    <PackageIconUrl>http://manufaktura-programow.pl/Images/ManufakturaSmaller.png</PackageIconUrl>
+    <RepositoryUrl>https://bitbucket.org/Ajcek/manufakturalibraries</RepositoryUrl>
+    <PackageTags>.net music notation controls serialization</PackageTags>
+    <Description>Serialization library for Manufaktura.Controls</Description>
+    <Copyright>Manufaktura programów Jacek Salamon 2018</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+    <PackageReference Include="System.Reflection.DispatchProxy" Version="4.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Manufaktura.Core\Manufaktura.Core.csproj" />
+  </ItemGroup>
+
+</Project>

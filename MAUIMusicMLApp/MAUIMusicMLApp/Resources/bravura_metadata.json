@@ -1,0 +1,5805 @@
+﻿{
+  "fontName": "Bravura",
+  "fontVersion": 1.204,
+  "engravingDefaults": {
+    "arrowShaftThickness": 0.16,
+    "barlineSeparation": 0.4,
+    "beamSpacing": 0.25,
+    "beamThickness": 0.5,
+    "bracketThickness": 0.5,
+    "dashedBarlineDashLength": 0.5,
+    "dashedBarlineGapLength": 0.25,
+    "dashedBarlineThickness": 0.16,
+    "hairpinThickness": 0.16,
+    "legerLineExtension": 0.4,
+    "legerLineThickness": 0.16,
+    "lyricLineThickness": 0.16,
+    "octaveLineThickness": 0.16,
+    "pedalLineThickness": 0.16,
+    "repeatBarlineDotSeparation": 0.16,
+    "repeatEndingLineThickness": 0.16,
+    "slurEndpointThickness": 0.1,
+    "slurMidpointThickness": 0.22,
+    "staffLineThickness": 0.13,
+    "stemThickness": 0.12,
+    "subBracketThickness": 0.16,
+    "textEnclosureThickness": 0.16,
+    "thickBarlineThickness": 0.5,
+    "thinBarlineThickness": 0.16,
+    "tieEndpointThickness": 0.1,
+    "tieMidpointThickness": 0.22,
+    "tupletBracketThickness": 0.16
+  },
+  "glyphBBoxes": {
+    "timeSig2": {
+      "BBoxNe": [
+        1.704,
+        1.016
+      ],
+      "BBoxSw": [
+        0.08,
+        -1.028
+      ]
+    },
+    "stem": {
+      "BBoxNe": [
+        0.06,
+        3.5
+      ],
+      "BBoxSw": [
+        -0.06,
+        0.0
+      ]
+    },
+    "noteheadBlack": {
+      "BBoxNe": [
+        1.18,
+        0.5
+      ],
+      "BBoxSw": [
+        0.0,
+        -0.5
+      ]
+    },
+    "timeSig3": {
+      "BBoxNe": [
+        1.604,
+        0.996
+      ],
+      "BBoxSw": [
+        0.08,
+        -1.004
+      ]
+    },
+    "noteheadWhole": {
+      "BBoxNe": [
+        1.688,
+        0.5
+      ],
+      "BBoxSw": [
+        0.0,
+        -0.5
+      ]
+    },
+    "noteheadHalf": {
+      "BBoxNe": [
+        1.18,
+        0.5
+      ],
+      "BBoxSw": [
+        0.0,
+        -0.5
+      ]
+    }
+  },
+  "glyphsWithAnchors": {
+    "Accidental1CommaFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.708,
+        0.32
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "Accidental1CommaSharp": {
+      "CutOutNw": [
+        0.896,
+        2.904
+      ],
+      "CutOutSe": [
+        1.088,
+        2.28
+      ],
+      "CutOutSw": [
+        0.112,
+        0.464
+      ],
+      "CutOutNe": null
+    },
+    "Accidental2CommaFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.0,
+        1.468
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "Accidental2CommaSharp": {
+      "CutOutNw": [
+        0.908,
+        2.908
+      ],
+      "CutOutSe": [
+        1.108,
+        2.24
+      ],
+      "CutOutSw": [
+        0.1,
+        0.464
+      ],
+      "CutOutNe": null
+    },
+    "Accidental3CommaFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.988,
+        1.444
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "Accidental3CommaSharp": {
+      "CutOutNw": [
+        0.888,
+        2.908
+      ],
+      "CutOutSe": [
+        1.108,
+        2.248
+      ],
+      "CutOutSw": [
+        0.108,
+        0.436
+      ],
+      "CutOutNe": null
+    },
+    "Accidental4CommaFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.008,
+        1.5
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "Accidental5CommaSharp": {
+      "CutOutNw": [
+        0.9,
+        2.888
+      ],
+      "CutOutSe": [
+        1.132,
+        2.24
+      ],
+      "CutOutSw": [
+        0.112,
+        0.452
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalArrowDown": {
+      "CutOutNw": [
+        0.22,
+        0.892
+      ],
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.512,
+        0.892
+      ]
+    },
+    "AccidentalArrowUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.532,
+        1.156
+      ],
+      "CutOutSw": [
+        0.2,
+        1.156
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalBakiyeFlat": {
+      "CutOutNw": [
+        0.156,
+        1.812
+      ],
+      "CutOutSe": [
+        0.82,
+        0.256
+      ],
+      "CutOutSw": [
+        0.156,
+        1.2
+      ],
+      "CutOutNe": [
+        0.54,
+        2.092
+      ]
+    },
+    "AccidentalBakiyeSharp": {
+      "CutOutNw": [
+        0.12,
+        2.008
+      ],
+      "CutOutSe": [
+        0.86,
+        0.776
+      ],
+      "CutOutSw": [
+        0.124,
+        0.468
+      ],
+      "CutOutNe": [
+        0.86,
+        2.332
+      ]
+    },
+    "AccidentalBuyukMucennebFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.808,
+        0.276
+      ],
+      "CutOutSw": [
+        0.176,
+        1.232
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalBuyukMucennebSharp": {
+      "CutOutNw": [
+        0.26,
+        2.028
+      ],
+      "CutOutSe": [
+        1.048,
+        0.776
+      ],
+      "CutOutSw": [
+        0.264,
+        0.444
+      ],
+      "CutOutNe": [
+        1.052,
+        2.34
+      ]
+    },
+    "AccidentalDoubleFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.336,
+        0.304
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.988,
+        1.344
+      ]
+    },
+    "AccidentalDoubleFlatEqualTempered": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.684,
+        0.28
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.388,
+        1.456
+      ]
+    },
+    "AccidentalDoubleFlatOneArrowDown": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.232,
+        0.824
+      ],
+      "CutOutSw": [
+        0.392,
+        0.608
+      ],
+      "CutOutNe": [
+        0.988,
+        2.092
+      ]
+    },
+    "AccidentalDoubleFlatOneArrowUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.592,
+        0.296
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.248,
+        1.38
+      ]
+    },
+    "AccidentalDoubleFlatReversed": {
+      "CutOutNw": [
+        0.596,
+        1.408
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.3,
+        0.276
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalDoubleFlatThreeArrowsDown": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.26,
+        1.708
+      ],
+      "CutOutSw": [
+        0.364,
+        1.484
+      ],
+      "CutOutNe": [
+        0.96,
+        2.956
+      ]
+    },
+    "AccidentalDoubleFlatThreeArrowsUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.572,
+        0.288
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.252,
+        1.4
+      ]
+    },
+    "AccidentalDoubleFlatTurned": {
+      "CutOutNw": [
+        0.456,
+        2.264
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.584,
+        1.02
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalDoubleFlatTwoArrowsDown": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.232,
+        1.28
+      ],
+      "CutOutSw": [
+        0.372,
+        1.04
+      ],
+      "CutOutNe": [
+        0.96,
+        2.504
+      ]
+    },
+    "AccidentalDoubleFlatTwoArrowsUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.588,
+        0.292
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.264,
+        1.4
+      ]
+    },
+    "AccidentalFilledReversedFlatAndFlat": {
+      "CutOutNw": [
+        0.584,
+        1.376
+      ],
+      "CutOutSe": [
+        1.144,
+        0.256
+      ],
+      "CutOutSw": [
+        0.316,
+        0.276
+      ],
+      "CutOutNe": [
+        0.92,
+        1.376
+      ]
+    },
+    "AccidentalFilledReversedFlatAndFlatArrowDown": {
+      "CutOutNw": [
+        0.576,
+        2.888
+      ],
+      "CutOutSe": [
+        1.276,
+        1.844
+      ],
+      "CutOutSw": [
+        0.18,
+        1.844
+      ],
+      "CutOutNe": [
+        0.928,
+        2.888
+      ]
+    },
+    "AccidentalFilledReversedFlatAndFlatArrowUp": {
+      "CutOutNw": [
+        0.24,
+        1.348
+      ],
+      "CutOutSe": [
+        1.116,
+        0.26
+      ],
+      "CutOutSw": [
+        0.372,
+        0.264
+      ],
+      "CutOutNe": [
+        1.272,
+        1.348
+      ]
+    },
+    "AccidentalFilledReversedFlatArrowDown": {
+      "CutOutNw": [
+        0.624,
+        2.608
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.216,
+        1.568
+      ],
+      "CutOutNe": [
+        0.964,
+        1.112
+      ]
+    },
+    "AccidentalFilledReversedFlatArrowUp": {
+      "CutOutNw": [
+        0.232,
+        1.372
+      ],
+      "CutOutSe": [
+        0.98,
+        2.12
+      ],
+      "CutOutSw": [
+        0.28,
+        0.276
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalFiveQuarterTonesFlatArrowDown": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.816,
+        0.892
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.26,
+        2.34
+      ]
+    },
+    "CutOut": null,
+    "AccidentalFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.504,
+        0.224
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.252,
+        1.356
+      ]
+    },
+    "AccidentalFlatEqualTempered": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.96,
+        0.284
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.992,
+        1.444
+      ]
+    },
+    "AccidentalFlatOneArrowDown": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.736,
+        0.864
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.496,
+        2.076
+      ]
+    },
+    "AccidentalFlatOneArrowUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.824,
+        0.28
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.736,
+        1.396
+      ]
+    },
+    "AccidentalFlatThreeArrowsDown": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.764,
+        1.728
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.5,
+        2.96
+      ]
+    },
+    "AccidentalFlatThreeArrowsUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.804,
+        0.268
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.74,
+        1.412
+      ]
+    },
+    "AccidentalFlatTurned": {
+      "CutOutNw": [
+        0.336,
+        2.184
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.584,
+        1.024
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalFlatTwoArrowsDown": {
+      "CutOutNw": [
+        0.18,
+        1.096
+      ],
+      "CutOutSe": [
+        0.752,
+        1.3
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.472,
+        2.528
+      ]
+    },
+    "AccidentalFlatTwoArrowsUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.852,
+        0.296
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.748,
+        1.424
+      ]
+    },
+    "AccidentalHalfSharpArrowDown": {
+      "CutOutNw": [
+        0.304,
+        2.844
+      ],
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.596,
+        3.024
+      ]
+    },
+    "AccidentalHalfSharpArrowUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.596,
+        0.6
+      ],
+      "CutOutSw": [
+        0.312,
+        0.44
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalKomaFlat": {
+      "CutOutNw": [
+        0.604,
+        1.424
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.356,
+        0.252
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalKomaSharp": {
+      "CutOutNw": [
+        0.28,
+        2.056
+      ],
+      "CutOutSe": [
+        0.596,
+        0.572
+      ],
+      "CutOutSw": [
+        0.28,
+        0.428
+      ],
+      "CutOutNe": [
+        0.596,
+        2.228
+      ]
+    },
+    "AccidentalKoron": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.264,
+        1.22
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalKucukMucennebFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.576,
+        0.276
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.284,
+        1.404
+      ]
+    },
+    "AccidentalKucukMucennebSharp": {
+      "CutOutNw": [
+        0.496,
+        2.06
+      ],
+      "CutOutSe": [
+        0.84,
+        0.584
+      ],
+      "CutOutSw": [
+        0.508,
+        0.404
+      ],
+      "CutOutNe": [
+        0.824,
+        2.228
+      ]
+    },
+    "AccidentalLowerOneSeptimalComma": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.212,
+        0.82
+      ]
+    },
+    "AccidentalLowerOneTridecimalQuartertone": {
+      "CutOutNw": [
+        0.436,
+        1.404
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.304,
+        0.28
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalLowerOneUndecimalQuartertone": {
+      "CutOutNw": [
+        0.688,
+        1.412
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.296,
+        0.308
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalLowerTwoSeptimalCommas": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.212,
+        1.556
+      ]
+    },
+    "AccidentalNarrowReversedFlat": {
+      "CutOutNw": [
+        0.452,
+        1.504
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.208,
+        0.328
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalNarrowReversedFlatAndFlat": {
+      "CutOutNw": [
+        0.444,
+        1.52
+      ],
+      "CutOutSe": [
+        1.352,
+        0.32
+      ],
+      "CutOutSw": [
+        0.196,
+        0.32
+      ],
+      "CutOutNe": [
+        0.988,
+        1.52
+      ]
+    },
+    "AccidentalNatural": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.476,
+        0.512
+      ],
+      "CutOutNe": [
+        0.192,
+        2.116
+      ]
+    },
+    "AccidentalNaturalEqualTempered": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.848,
+        0.476
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalNaturalFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.748,
+        0.512
+      ],
+      "CutOutSw": [
+        0.436,
+        0.512
+      ],
+      "CutOutNe": [
+        1.18,
+        1.988
+      ]
+    },
+    "AccidentalNaturalOneArrowDown": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.184,
+        0.832
+      ],
+      "CutOutNe": [
+        0.748,
+        0.652
+      ]
+    },
+    "AccidentalNaturalOneArrowUp": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.736,
+        0.488
+      ],
+      "CutOutNe": [
+        0.732,
+        2.156
+      ]
+    },
+    "AccidentalNaturalReversed": {
+      "CutOutNw": [
+        0.432,
+        2.16
+      ],
+      "CutOutSe": [
+        0.264,
+        0.464
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalNaturalSharp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.784,
+        0.784
+      ],
+      "CutOutSw": [
+        0.452,
+        0.556
+      ],
+      "CutOutNe": [
+        1.784,
+        2.292
+      ]
+    },
+    "AccidentalNaturalThreeArrowsDown": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.192,
+        1.708
+      ],
+      "CutOutNe": [
+        0.764,
+        1.556
+      ]
+    },
+    "AccidentalNaturalThreeArrowsUp": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.736,
+        0.488
+      ],
+      "CutOutNe": [
+        0.756,
+        2.156
+      ]
+    },
+    "AccidentalNaturalTwoArrowsDown": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.18,
+        1.288
+      ],
+      "CutOutNe": [
+        0.756,
+        1.116
+      ]
+    },
+    "AccidentalNaturalTwoArrowsUp": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.74,
+        0.488
+      ],
+      "CutOutNe": [
+        0.76,
+        2.164
+      ]
+    },
+    "AccidentalOneAndAHalfSharpsArrowDown": {
+      "CutOutNw": [
+        0.336,
+        2.988
+      ],
+      "CutOutSe": [
+        1.004,
+        1.144
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalOneAndAHalfSharpsArrowUp": {
+      "CutOutNw": [
+        0.424,
+        2.72
+      ],
+      "CutOutSe": [
+        1.328,
+        2.688
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalQuarterFlatEqualTempered": {
+      "CutOutNw": [
+        0.348,
+        1.396
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.348,
+        0.26
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalQuarterSharpEqualTempered": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.704,
+        1.052
+      ],
+      "CutOutSw": [
+        0.36,
+        0.852
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalQuarterToneFlat4": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.268,
+        0.264
+      ],
+      "CutOutSw": [
+        0.648,
+        1.804
+      ],
+      "CutOutNe": [
+        1.22,
+        1.448
+      ]
+    },
+    "AccidentalQuarterToneFlatArrowUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.788,
+        0.256
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.772,
+        1.372
+      ]
+    },
+    "AccidentalQuarterToneFlatFilledReversed": {
+      "CutOutNw": [
+        0.596,
+        1.404
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.372,
+        0.248
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalQuarterToneFlatNaturalArrowDown": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.22,
+        2.96
+      ]
+    },
+    "AccidentalQuarterToneFlatPenderecki": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.52,
+        0.26
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.304,
+        1.412
+      ]
+    },
+    "AccidentalQuarterToneFlatStein": {
+      "CutOutNw": [
+        0.624,
+        1.376
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.332,
+        0.272
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalQuarterToneFlatVanBlankenburg": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.32,
+        1.128
+      ]
+    },
+    "AccidentalQuarterToneSharp4": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.456,
+        0.748
+      ],
+      "CutOutSw": [
+        0.492,
+        2.452
+      ],
+      "CutOutNe": [
+        1.028,
+        2.928
+      ]
+    },
+    "AccidentalQuarterToneSharpArrowDown": {
+      "CutOutNw": [
+        0.244,
+        2.744
+      ],
+      "CutOutSe": [
+        0.968,
+        1.548
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.968,
+        3.044
+      ]
+    },
+    "AccidentalQuarterToneSharpBusotti": {
+      "CutOutNw": [
+        0.184,
+        2.056
+      ],
+      "CutOutSe": [
+        0.472,
+        1.512
+      ],
+      "CutOutSw": [
+        0.184,
+        1.388
+      ],
+      "CutOutNe": [
+        0.476,
+        2.224
+      ]
+    },
+    "AccidentalQuarterToneSharpNaturalArrowUp": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.72,
+        0.492
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalQuarterToneSharpStein": {
+      "CutOutNw": [
+        0.224,
+        2.016
+      ],
+      "CutOutSe": [
+        0.492,
+        0.612
+      ],
+      "CutOutSw": [
+        0.224,
+        0.492
+      ],
+      "CutOutNe": [
+        0.476,
+        2.16
+      ]
+    },
+    "AccidentalQuarterToneSharpWiggle": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        2.076,
+        0.788
+      ],
+      "CutOutSw": [
+        1.088,
+        2.108
+      ],
+      "CutOutNe": [
+        2.076,
+        2.332
+      ]
+    },
+    "AccidentalRaiseOneSeptimalComma": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.22,
+        1.288
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalRaiseOneTridecimalQuartertone": {
+      "CutOutNw": [
+        0.196,
+        1.5
+      ],
+      "CutOutSe": [
+        0.892,
+        1.116
+      ],
+      "CutOutSw": [
+        0.196,
+        0.764
+      ],
+      "CutOutNe": [
+        0.892,
+        1.832
+      ]
+    },
+    "AccidentalRaiseOneUndecimalQuartertone": {
+      "CutOutNw": [
+        0.332,
+        1.612
+      ],
+      "CutOutSe": [
+        0.736,
+        1.028
+      ],
+      "CutOutSw": [
+        0.332,
+        0.808
+      ],
+      "CutOutNe": [
+        0.736,
+        1.864
+      ]
+    },
+    "AccidentalRaiseTwoSeptimalCommas": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.22,
+        1.256
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalReversedFlatAndFlatArrowDown": {
+      "CutOutNw": [
+        0.588,
+        2.88
+      ],
+      "CutOutSe": [
+        1.304,
+        1.8
+      ],
+      "CutOutSw": [
+        0.224,
+        1.8
+      ],
+      "CutOutNe": [
+        0.94,
+        2.888
+      ]
+    },
+    "AccidentalReversedFlatAndFlatArrowUp": {
+      "CutOutNw": [
+        0.24,
+        1.404
+      ],
+      "CutOutSe": [
+        1.312,
+        0.244
+      ],
+      "CutOutSw": [
+        0.24,
+        0.264
+      ],
+      "CutOutNe": [
+        1.32,
+        1.404
+      ]
+    },
+    "AccidentalReversedFlatArrowDown": {
+      "CutOutNw": [
+        0.628,
+        2.616
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.212,
+        1.54
+      ],
+      "CutOutNe": [
+        0.94,
+        1.092
+      ]
+    },
+    "AccidentalReversedFlatArrowUp": {
+      "CutOutNw": [
+        0.252,
+        1.372
+      ],
+      "CutOutSe": [
+        0.984,
+        2.108
+      ],
+      "CutOutSw": [
+        0.352,
+        0.24
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalSharp": {
+      "CutOutNw": [
+        0.144,
+        1.96
+      ],
+      "CutOutSe": [
+        0.84,
+        0.796
+      ],
+      "CutOutSw": [
+        0.144,
+        0.496
+      ],
+      "CutOutNe": [
+        0.84,
+        2.288
+      ]
+    },
+    "AccidentalSharpOneArrowDown": {
+      "CutOutNw": [
+        0.12,
+        2.66
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.12,
+        1.14
+      ],
+      "CutOutNe": [
+        0.868,
+        2.972
+      ]
+    },
+    "AccidentalSharpOneArrowUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.956,
+        0.796
+      ],
+      "CutOutSw": [
+        0.192,
+        0.492
+      ],
+      "CutOutNe": [
+        0.744,
+        2.864
+      ]
+    },
+    "AccidentalSharpOneHorizontalStroke": {
+      "CutOutNw": [
+        0.132,
+        2.016
+      ],
+      "CutOutSe": [
+        0.888,
+        1.712
+      ],
+      "CutOutSw": [
+        0.132,
+        1.356
+      ],
+      "CutOutNe": [
+        0.888,
+        2.356
+      ]
+    },
+    "AccidentalSharpReversed": {
+      "CutOutNw": [
+        0.112,
+        2.32
+      ],
+      "CutOutSe": [
+        0.896,
+        0.444
+      ],
+      "CutOutSw": [
+        0.108,
+        0.764
+      ],
+      "CutOutNe": [
+        0.896,
+        2.036
+      ]
+    },
+    "AccidentalSharpSharp": {
+      "CutOutNw": [
+        0.144,
+        1.988
+      ],
+      "CutOutSe": [
+        1.936,
+        0.788
+      ],
+      "CutOutSw": [
+        0.144,
+        0.496
+      ],
+      "CutOutNe": [
+        1.928,
+        2.292
+      ]
+    },
+    "AccidentalSharpThreeArrowsDown": {
+      "CutOutNw": [
+        0.124,
+        3.56
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.3,
+        1.48
+      ],
+      "CutOutNe": [
+        0.868,
+        3.864
+      ]
+    },
+    "AccidentalSharpThreeArrowsUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.96,
+        0.796
+      ],
+      "CutOutSw": [
+        0.208,
+        0.484
+      ],
+      "CutOutNe": [
+        0.76,
+        2.896
+      ]
+    },
+    "AccidentalSharpTwoArrowsDown": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.272,
+        1.028
+      ],
+      "CutOutNe": [
+        0.868,
+        3.42
+      ]
+    },
+    "AccidentalSharpTwoArrowsUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.964,
+        0.804
+      ],
+      "CutOutSw": [
+        0.208,
+        0.484
+      ],
+      "CutOutNe": [
+        0.768,
+        2.868
+      ]
+    },
+    "AccidentalSims12Down": {
+      "CutOutNw": [
+        0.736,
+        0.912
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.356,
+        0.188
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalSims12Up": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.836,
+        1.82
+      ],
+      "CutOutSw": [
+        0.364,
+        1.82
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalSims4Down": {
+      "CutOutNw": [
+        0.708,
+        1.028
+      ],
+      "CutOutSe": [
+        1.188,
+        2.428
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalSims6Down": {
+      "CutOutNw": [
+        0.736,
+        1.028
+      ],
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.356,
+        0.296
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalSims6Up": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": [
+        0.716,
+        1.68
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalSori": {
+      "CutOutNw": [
+        0.264,
+        2.1
+      ],
+      "CutOutSe": [
+        1.188,
+        0.868
+      ],
+      "CutOutSw": [
+        0.264,
+        0.456
+      ],
+      "CutOutNe": [
+        1.188,
+        1.664
+      ]
+    },
+    "AccidentalTavenerFlat": {
+      "CutOutNw": [
+        0.896,
+        1.204
+      ],
+      "CutOutSe": [
+        1.996,
+        1.632
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalTavenerSharp": {
+      "CutOutNw": [
+        0.536,
+        1.092
+      ],
+      "CutOutSe": [
+        1.708,
+        1.692
+      ],
+      "CutOutSw": [
+        0.708,
+        0.304
+      ],
+      "CutOutNe": [
+        1.704,
+        2.492
+      ]
+    },
+    "AccidentalThreeQuarterTonesFlatArrowDown": {
+      "CutOutNw": [
+        0.188,
+        0.872
+      ],
+      "CutOutSe": [
+        0.804,
+        1.172
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.512,
+        2.32
+      ]
+    },
+    "AccidentalThreeQuarterTonesFlatArrowUp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.296,
+        0.244
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.264,
+        1.388
+      ]
+    },
+    "AccidentalThreeQuarterTonesFlatCouper": {
+      "CutOutNw": [
+        0.564,
+        1.44
+      ],
+      "CutOutSe": [
+        1.268,
+        0.268
+      ],
+      "CutOutSw": [
+        0.376,
+        0.268
+      ],
+      "CutOutNe": [
+        1.052,
+        1.448
+      ]
+    },
+    "AccidentalThreeQuarterTonesFlatGrisey": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.564,
+        0.264
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.476,
+        1.42
+      ]
+    },
+    "AccidentalThreeQuarterTonesFlatTartini": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.312,
+        1.388
+      ]
+    },
+    "AccidentalThreeQuarterTonesFlatZimmermann": {
+      "CutOutNw": [
+        0.632,
+        1.368
+      ],
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.216,
+        1.368
+      ]
+    },
+    "AccidentalThreeQuarterTonesSharpArrowDown": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.82,
+        0.812
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalThreeQuarterTonesSharpArrowUp": {
+      "CutOutNw": [
+        0.272,
+        2.692
+      ],
+      "CutOutSe": [
+        0.86,
+        0.804
+      ],
+      "CutOutSw": [
+        0.132,
+        0.5
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalThreeQuarterTonesSharpBusotti": {
+      "CutOutNw": [
+        0.18,
+        2.024
+      ],
+      "CutOutSe": [
+        1.36,
+        1.896
+      ],
+      "CutOutSw": [
+        0.18,
+        1.396
+      ],
+      "CutOutNe": [
+        1.36,
+        2.596
+      ]
+    },
+    "AccidentalThreeQuarterTonesSharpStein": {
+      "CutOutNw": [
+        0.132,
+        1.992
+      ],
+      "CutOutSe": [
+        1.116,
+        0.888
+      ],
+      "CutOutSw": [
+        0.132,
+        0.492
+      ],
+      "CutOutNe": [
+        1.116,
+        2.388
+      ]
+    },
+    "AccidentalTripleFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        2.048,
+        0.264
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.748,
+        1.356
+      ]
+    },
+    "AccidentalTripleSharp": {
+      "CutOutNw": [
+        0.12,
+        1.988
+      ],
+      "CutOutSe": [
+        0.86,
+        0.804
+      ],
+      "CutOutSw": [
+        0.12,
+        0.492
+      ],
+      "CutOutNe": [
+        0.86,
+        2.308
+      ]
+    },
+    "AccidentalWyschnegradsky10TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.496,
+        1.384
+      ]
+    },
+    "AccidentalWyschnegradsky10TwelfthsSharp": {
+      "CutOutNw": [
+        0.828,
+        2.832
+      ],
+      "CutOutSe": [
+        1.34,
+        2.78
+      ],
+      "CutOutSw": [
+        0.112,
+        0.472
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalWyschnegradsky11TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": null,
+      "CutOutSw": null,
+      "CutOutNe": [
+        1.492,
+        1.388
+      ]
+    },
+    "AccidentalWyschnegradsky11TwelfthsSharp": {
+      "CutOutNw": [
+        0.828,
+        2.852
+      ],
+      "CutOutSe": [
+        1.34,
+        2.808
+      ],
+      "CutOutSw": [
+        0.108,
+        0.48
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalWyschnegradsky1TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.22,
+        0.428
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.724,
+        1.932
+      ]
+    },
+    "AccidentalWyschnegradsky1TwelfthsSharp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.224,
+        2.188
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalWyschnegradsky2TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.22,
+        0.436
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.708,
+        1.94
+      ]
+    },
+    "AccidentalWyschnegradsky2TwelfthsSharp": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.224,
+        1.612
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "AccidentalWyschnegradsky3TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.224,
+        0.428
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.224,
+        1.992
+      ]
+    },
+    "AccidentalWyschnegradsky3TwelfthsSharp": {
+      "CutOutNw": [
+        0.164,
+        2.004
+      ],
+      "CutOutSe": [
+        0.452,
+        0.58
+      ],
+      "CutOutSw": [
+        0.164,
+        0.468
+      ],
+      "CutOutNe": [
+        0.452,
+        2.168
+      ]
+    },
+    "AccidentalWyschnegradsky4TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.544,
+        0.252
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.744,
+        1.396
+      ]
+    },
+    "AccidentalWyschnegradsky4TwelfthsSharp": {
+      "CutOutNw": [
+        0.172,
+        2.004
+      ],
+      "CutOutSe": [
+        0.736,
+        2.264
+      ],
+      "CutOutSw": [
+        0.172,
+        0.46
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalWyschnegradsky5TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.628,
+        0.272
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.724,
+        1.396
+      ]
+    },
+    "AccidentalWyschnegradsky5TwelfthsSharp": {
+      "CutOutNw": [
+        0.164,
+        2.004
+      ],
+      "CutOutSe": [
+        0.728,
+        2.256
+      ],
+      "CutOutSw": [
+        0.164,
+        0.46
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalWyschnegradsky6TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        0.564,
+        0.26
+      ],
+      "CutOutSw": null,
+      "CutOutNe": [
+        0.304,
+        1.416
+      ]
+    },
+    "AccidentalWyschnegradsky6TwelfthsSharp": {
+      "CutOutNw": [
+        0.12,
+        1.996
+      ],
+      "CutOutSe": [
+        0.868,
+        0.784
+      ],
+      "CutOutSw": [
+        0.12,
+        0.476
+      ],
+      "CutOutNe": [
+        0.86,
+        2.332
+      ]
+    },
+    "AccidentalWyschnegradsky7TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.052,
+        0.42
+      ],
+      "CutOutSw": [
+        0.696,
+        0.36
+      ],
+      "CutOutNe": [
+        1.544,
+        1.936
+      ]
+    },
+    "AccidentalWyschnegradsky7TwelfthsSharp": {
+      "CutOutNw": [
+        0.568,
+        2.684
+      ],
+      "CutOutSe": [
+        1.068,
+        2.812
+      ],
+      "CutOutSw": [
+        0.12,
+        0.464
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalWyschnegradsky8TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.06,
+        0.432
+      ],
+      "CutOutSw": [
+        0.684,
+        0.392
+      ],
+      "CutOutNe": [
+        1.524,
+        1.964
+      ]
+    },
+    "AccidentalWyschnegradsky8TwelfthsSharp": {
+      "CutOutNw": [
+        0.556,
+        2.784
+      ],
+      "CutOutSe": [
+        1.052,
+        2.784
+      ],
+      "CutOutSw": [
+        0.112,
+        0.472
+      ],
+      "CutOutNe": null
+    },
+    "AccidentalWyschnegradsky9TwelfthsFlat": {
+      "CutOutNw": null,
+      "CutOutSe": [
+        1.04,
+        0.38
+      ],
+      "CutOutSw": [
+        0.704,
+        0.372
+      ],
+      "CutOutNe": [
+        1.04,
+        1.964
+      ]
+    },
+    "AccidentalWyschnegradsky9TwelfthsSharp": {
+      "CutOutNw": [
+        0.112,
+        2.012
+      ],
+      "CutOutSe": [
+        1.132,
+        0.824
+      ],
+      "CutOutSw": [
+        0.112,
+        0.468
+      ],
+      "CutOutNe": [
+        1.132,
+        2.388
+      ]
+    },
+    "AccidentalXenakisOneThirdToneSharp": {
+      "CutOutNw": [
+        0.364,
+        2.1
+      ],
+      "CutOutSe": [
+        0.756,
+        0.612
+      ],
+      "CutOutSw": [
+        0.364,
+        0.448
+      ],
+      "CutOutNe": [
+        0.748,
+        2.272
+      ]
+    },
+    "AccidentalXenakisTwoThirdTonesSharp": {
+      "CutOutNw": [
+        0.344,
+        2.052
+      ],
+      "CutOutSe": [
+        1.06,
+        0.648
+      ],
+      "CutOutSw": [
+        0.344,
+        0.44
+      ],
+      "CutOutNe": [
+        1.06,
+        2.256
+      ]
+    },
+    "BeamAccelRit1": {
+      "RepeatOffset": [
+        4.736,
+        0.0
+      ]
+    },
+    "BeamAccelRit10": {
+      "RepeatOffset": [
+        2.116,
+        0.0
+      ]
+    },
+    "BeamAccelRit11": {
+      "RepeatOffset": [
+        1.816,
+        0.0
+      ]
+    },
+    "BeamAccelRit12": {
+      "RepeatOffset": [
+        1.516,
+        0.0
+      ]
+    },
+    "BeamAccelRit13": {
+      "RepeatOffset": [
+        1.216,
+        0.0
+      ]
+    },
+    "BeamAccelRit14": {
+      "RepeatOffset": [
+        0.916,
+        0.0
+      ]
+    },
+    "BeamAccelRit15": {
+      "RepeatOffset": [
+        0.616,
+        0.0
+      ]
+    },
+    "BeamAccelRit2": {
+      "RepeatOffset": [
+        4.436,
+        0.0
+      ]
+    },
+    "BeamAccelRit3": {
+      "RepeatOffset": [
+        4.136,
+        0.0
+      ]
+    },
+    "BeamAccelRit4": {
+      "RepeatOffset": [
+        3.916,
+        0.0
+      ]
+    },
+    "BeamAccelRit5": {
+      "RepeatOffset": [
+        3.616,
+        0.0
+      ]
+    },
+    "BeamAccelRit6": {
+      "RepeatOffset": [
+        3.316,
+        0.0
+      ]
+    },
+    "BeamAccelRit7": {
+      "RepeatOffset": [
+        3.016,
+        0.0
+      ]
+    },
+    "BeamAccelRit8": {
+      "RepeatOffset": [
+        2.716,
+        0.0
+      ]
+    },
+    "BeamAccelRit9": {
+      "RepeatOffset": [
+        2.416,
+        0.0
+      ]
+    },
+    "DynamicFf": {
+      "OpticalCenter": [
+        1.852,
+        0.0
+      ]
+    },
+    "DynamicFff": {
+      "OpticalCenter": [
+        2.472,
+        0.0
+      ]
+    },
+    "DynamicFfff": {
+      "OpticalCenter": [
+        2.824,
+        0.0
+      ]
+    },
+    "DynamicFffff": {
+      "OpticalCenter": [
+        2.976,
+        0.0
+      ]
+    },
+    "DynamicFfffff": {
+      "OpticalCenter": [
+        3.504,
+        0.0
+      ]
+    },
+    "DynamicForte": {
+      "OpticalCenter": [
+        1.256,
+        0.0
+      ]
+    },
+    "DynamicFortePiano": {
+      "OpticalCenter": [
+        1.5,
+        0.0
+      ]
+    },
+    "DynamicForzando": {
+      "OpticalCenter": [
+        1.352,
+        0.0
+      ]
+    },
+    "DynamicMf": {
+      "OpticalCenter": [
+        1.796,
+        0.0
+      ]
+    },
+    "DynamicMp": {
+      "OpticalCenter": [
+        1.848,
+        0.0
+      ]
+    },
+    "DynamicMezzo": {
+      "OpticalCenter": [
+        0.872,
+        0.0
+      ]
+    },
+    "DynamicNiente": {
+      "OpticalCenter": [
+        0.616,
+        0.0
+      ]
+    },
+    "DynamicPf": {
+      "OpticalCenter": [
+        1.68,
+        0.0
+      ]
+    },
+    "DynamicPp": {
+      "OpticalCenter": [
+        1.708,
+        0.0
+      ]
+    },
+    "DynamicPpp": {
+      "OpticalCenter": [
+        2.368,
+        0.0
+      ]
+    },
+    "DynamicPppp": {
+      "OpticalCenter": [
+        3.004,
+        0.0
+      ]
+    },
+    "DynamicPpppp": {
+      "OpticalCenter": [
+        3.552,
+        0.0
+      ]
+    },
+    "DynamicPppppp": {
+      "OpticalCenter": [
+        4.248,
+        0.0
+      ]
+    },
+    "DynamicPiano": {
+      "OpticalCenter": [
+        1.22,
+        0.0
+      ]
+    },
+    "DynamicRinforzando": {
+      "OpticalCenter": [
+        0.612,
+        0.0
+      ]
+    },
+    "DynamicRinforzando1": {
+      "OpticalCenter": [
+        1.564,
+        0.0
+      ]
+    },
+    "DynamicRinforzando2": {
+      "OpticalCenter": [
+        2.084,
+        0.0
+      ]
+    },
+    "DynamicSforzando": {
+      "OpticalCenter": [
+        0.444,
+        0.0
+      ]
+    },
+    "DynamicSforzando1": {
+      "OpticalCenter": [
+        1.3,
+        0.0
+      ]
+    },
+    "DynamicSforzandoPianissimo": {
+      "OpticalCenter": [
+        1.972,
+        0.0
+      ]
+    },
+    "DynamicSforzandoPiano": {
+      "OpticalCenter": [
+        1.904,
+        0.0
+      ]
+    },
+    "DynamicSforzato": {
+      "OpticalCenter": [
+        1.76,
+        0.0
+      ]
+    },
+    "DynamicSforzatoFf": {
+      "OpticalCenter": [
+        2.276,
+        0.0
+      ]
+    },
+    "DynamicSforzatoPiano": {
+      "OpticalCenter": [
+        1.848,
+        0.0
+      ]
+    },
+    "DynamicZ": {
+      "OpticalCenter": [
+        0.5,
+        0.0
+      ]
+    },
+    "Flag1024ThDown": {
+      "StemDownSw": [
+        0.0,
+        -4.684
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag1024ThDownSmall": {
+      "StemDownSw": [
+        0.0,
+        -4.472
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag1024ThDownStraight": {
+      "StemDownSw": [
+        0.0,
+        -4.66
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag1024ThUp": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        4.064
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag1024ThUpShort": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        4.256
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag1024ThUpSmall": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        4.252
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag1024ThUpStraight": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        4.644
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag128ThDown": {
+      "StemDownSw": [
+        0.0,
+        -2.076
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag128ThDownSmall": {
+      "StemDownSw": [
+        0.0,
+        -2.28
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag128ThDownStraight": {
+      "StemDownSw": [
+        0.0,
+        -2.28
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag128ThUp": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        1.9
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag128ThUpShort": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        2.076
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag128ThUpSmall": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        2.2
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag128ThUpStraight": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        2.296
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag16ThDown": {
+      "StemDownSw": [
+        0.0,
+        0.128
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag16ThDownSmall": {
+      "StemDownSw": [
+        0.0,
+        0.068
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag16ThDownStraight": {
+      "StemDownSw": [
+        0.0,
+        0.124
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag16ThUp": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        -0.088
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag16ThUpShort": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        -0.26
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag16ThUpSmall": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        -0.08
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag16ThUpStraight": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        -0.18
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag256ThDown": {
+      "StemDownSw": [
+        0.0,
+        -2.812
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag256ThDownSmall": {
+      "StemDownSw": [
+        0.0,
+        -3.04
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag256ThDownStraight": {
+      "StemDownSw": [
+        0.0,
+        -3.068
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag256ThUp": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        2.592
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag256ThUpShort": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        2.836
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag256ThUpSmall": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        2.936
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag256ThUpStraight": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        3.072
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag32NdDown": {
+      "StemDownSw": [
+        0.0,
+        -0.448
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag32NdDownSmall": {
+      "StemDownSw": [
+        0.0,
+        -0.716
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag32NdDownStraight": {
+      "StemDownSw": [
+        0.0,
+        -0.68
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag32NdUp": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        0.376
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag32NdUpShort": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        0.704
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag32NdUpSmall": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        0.664
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag32NdUpStraight": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        0.696
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag512ThDown": {
+      "StemDownSw": [
+        0.0,
+        -3.608
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag512ThDownSmall": {
+      "StemDownSw": [
+        0.0,
+        -3.744
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag512ThDownStraight": {
+      "StemDownSw": [
+        0.0,
+        -3.884
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag512ThUp": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        3.324
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag512ThUpShort": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        3.54
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag512ThUpSmall": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        3.656
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag512ThUpStraight": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        3.856
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag64ThDown": {
+      "StemDownSw": [
+        0.0,
+        -1.244
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag64ThDownSmall": {
+      "StemDownSw": [
+        0.0,
+        -1.472
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag64ThDownStraight": {
+      "StemDownSw": [
+        0.0,
+        -1.18
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag64ThUp": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        1.172
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag64ThUpShort": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        1.392
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag64ThUpSmall": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        1.392
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag64ThUpStraight": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        1.492
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag8ThDown": {
+      "GraceNoteSlashNw": [
+        -0.596,
+        2.168
+      ],
+      "GraceNoteSlashSe": [
+        1.328,
+        0.628
+      ],
+      "GraceNoteSlashNe": null,
+      "GraceNoteSlashSw": null,
+      "StemDownSw": [
+        0.0,
+        0.132
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "StemBoundaries": null,
+    "Flag8ThDownStraight": {
+      "StemDownSw": [
+        0.0,
+        0.12
+      ],
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag8ThUp": {
+      "GraceNoteSlashNw": null,
+      "GraceNoteSlashSe": null,
+      "GraceNoteSlashNe": [
+        1.284,
+        -0.796
+      ],
+      "GraceNoteSlashSw": [
+        -0.644,
+        -2.456
+      ],
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        -0.04
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag8ThUpShort": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        -0.2
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag8thUpSmall": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        0.0
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "Flag8ThUpStraight": {
+      "StemDownSw": null,
+      "StemUpNw": [
+        0.0,
+        -0.22
+      ],
+      "StemDownNw": null,
+      "StemUpSe": null
+    },
+    "GClefLigatedNumberAbove": {
+      "NumeralBottom": [
+        2.224,
+        3.468
+      ]
+    },
+    "GClefLigatedNumberBelow": {
+      "NumeralBottom": [
+        1.052,
+        -2.616
+      ]
+    },
+    "GuitarVibratoStroke": {
+      "RepeatOffset": [
+        0.608,
+        0.0
+      ]
+    },
+    "GuitarWideVibratoStroke": {
+      "RepeatOffset": [
+        0.82,
+        0.0
+      ]
+    },
+    "NoteABlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.432,
+        0.188
+      ]
+    },
+    "NoteAFlatBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.432,
+        0.184
+      ]
+    },
+    "NoteAFlatHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.192
+      ]
+    },
+    "NoteAHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.44,
+        0.196
+      ]
+    },
+    "NoteASharpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.432,
+        0.184
+      ]
+    },
+    "NoteASharpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteBBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteBFlatBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteBFlatHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.44,
+        0.196
+      ]
+    },
+    "NoteBHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteBSharpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.428,
+        0.192
+      ]
+    },
+    "NoteBSharpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteCBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.432,
+        0.192
+      ]
+    },
+    "NoteCFlatBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteCFlatHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.44,
+        0.196
+      ]
+    },
+    "NoteCHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteCSharpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.428,
+        0.192
+      ]
+    },
+    "NoteCSharpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteDBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteDFlatBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteDFlatHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.44,
+        0.196
+      ]
+    },
+    "NoteDHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteDSharpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteDSharpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteDoBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.432,
+        0.192
+      ]
+    },
+    "NoteDoHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteEBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.432,
+        0.188
+      ]
+    },
+    "NoteEFlatBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteEFlatHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.44,
+        0.196
+      ]
+    },
+    "NoteEHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.44,
+        0.196
+      ]
+    },
+    "NoteESharpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteESharpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteEmptyBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.432,
+        0.188
+      ]
+    },
+    "NoteEmptyHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteFBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.432,
+        0.188
+      ]
+    },
+    "NoteFFlatBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.428,
+        0.192
+      ]
+    },
+    "NoteFFlatHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.444,
+        0.192
+      ]
+    },
+    "NoteFHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteFSharpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteFSharpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.444,
+        0.192
+      ]
+    },
+    "NoteFaBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.18
+      ],
+      "StemUpSe": [
+        1.432,
+        0.196
+      ]
+    },
+    "NoteFaHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.44,
+        0.196
+      ]
+    },
+    "NoteGBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.432,
+        0.192
+      ]
+    },
+    "NoteGFlatBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.432,
+        0.192
+      ]
+    },
+    "NoteGFlatHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.444,
+        0.192
+      ]
+    },
+    "NoteGHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.44,
+        0.196
+      ]
+    },
+    "NoteGSharpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.428,
+        0.188
+      ]
+    },
+    "NoteGSharpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteHBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.432,
+        0.192
+      ]
+    },
+    "NoteHHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteHSharpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.432,
+        0.192
+      ]
+    },
+    "NoteHSharpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteLaBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.18
+      ],
+      "StemUpSe": [
+        1.432,
+        0.196
+      ]
+    },
+    "NoteLaHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteMiBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.18
+      ],
+      "StemUpSe": [
+        1.432,
+        0.196
+      ]
+    },
+    "NoteMiHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.44,
+        0.192
+      ]
+    },
+    "NoteReBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.184
+      ],
+      "StemUpSe": [
+        1.432,
+        0.192
+      ]
+    },
+    "NoteReHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.188
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteShapeDiamondBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.308,
+        0.0
+      ]
+    },
+    "NoteShapeDiamondWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.312,
+        0.0
+      ]
+    },
+    "NoteShapeMoonBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.068
+      ],
+      "StemUpSe": [
+        1.516,
+        0.068
+      ]
+    },
+    "NoteShapeMoonWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.072
+      ],
+      "StemUpSe": [
+        1.516,
+        0.068
+      ]
+    },
+    "NoteShapeRoundBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.168
+      ],
+      "StemUpSe": [
+        1.18,
+        0.168
+      ]
+    },
+    "NoteShapeRoundWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.168
+      ],
+      "StemUpSe": [
+        1.18,
+        0.168
+      ]
+    },
+    "NoteShapeSquareBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.44,
+        0.5
+      ]
+    },
+    "NoteShapeSquareWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.44,
+        0.5
+      ]
+    },
+    "NoteShapeTriangleLeftBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.5
+      ],
+      "StemUpSe": [
+        1.44,
+        0.5
+      ]
+    },
+    "NoteShapeTriangleLeftWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.5
+      ],
+      "StemUpSe": [
+        1.44,
+        0.5
+      ]
+    },
+    "NoteShapeTriangleRightBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.44,
+        -0.5
+      ]
+    },
+    "NoteShapeTriangleRightWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.44,
+        -0.5
+      ]
+    },
+    "NoteShapeTriangleRoundBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.172
+      ],
+      "StemUpSe": [
+        1.424,
+        0.172
+      ]
+    },
+    "NoteShapeTriangleRoundWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.172
+      ],
+      "StemUpSe": [
+        1.424,
+        0.172
+      ]
+    },
+    "NoteShapeTriangleUpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.424,
+        -0.5
+      ]
+    },
+    "NoteShapeTriangleUpWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.424,
+        -0.5
+      ]
+    },
+    "NoteSiBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.18
+      ],
+      "StemUpSe": [
+        1.432,
+        0.196
+      ]
+    },
+    "NoteSiHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.44,
+        0.196
+      ]
+    },
+    "NoteSoBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.18
+      ],
+      "StemUpSe": [
+        1.432,
+        0.196
+      ]
+    },
+    "NoteSoHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteTiBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.18
+      ],
+      "StemUpSe": [
+        1.432,
+        0.196
+      ]
+    },
+    "NoteTiHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.192
+      ],
+      "StemUpSe": [
+        1.444,
+        0.196
+      ]
+    },
+    "NoteheadBlack": {
+      "cutOutNW": [
+        0.208,
+        0.8
+      ],
+      "cutOutSE": [
+        0.94,
+        0.204
+      ],
+      "splitStemDownNE": [
+        0.968,
+        -0.248
+      ],
+      "splitStemDownNW": [
+        0.12,
+        -0.416
+      ],
+      "splitStemUpSE": [
+        1.092,
+        0.392
+      ],
+      "splitStemUpSW": [
+        0.312,
+        0.356
+      ],
+      "stemDownNW": [
+        0.0,
+        -0.168
+      ],
+      "stemUpSE": [
+        1.18,
+        0.168
+      ]
+    },
+    "NoteheadBlackOversized": {
+      "splitStemDownNE": [
+        1.048,
+        -0.308
+      ],
+      "splitStemDownNW": [
+        0.1,
+        -0.436
+      ],
+      "splitStemUpSE": [
+        1.244,
+        0.408
+      ],
+      "splitStemUpSW": [
+        0.308,
+        0.372
+      ],
+      "stemDownNW": [
+        0.0,
+        -0.184
+      ],
+      "stemUpSE": [
+        1.316,
+        0.188
+      ]
+    },
+    "NoteheadBlackSmall": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.168
+      ],
+      "StemUpSe": [
+        1.408,
+        0.156
+      ]
+    },
+    "NoteheadCircleSlash": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.004,
+        0.0
+      ],
+      "StemUpSe": [
+        1.0,
+        0.0
+      ]
+    },
+    "NoteheadCircleX": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        0.996,
+        0.0
+      ]
+    },
+    "NoteheadCircleXDoubleWhole": {
+      "NoteheadOrigin": [
+        0.352,
+        0.0
+      ]
+    },
+    "NoteheadCircleXHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.0,
+        0.0
+      ]
+    },
+    "NoteheadCircledBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.084,
+        -0.164
+      ],
+      "StemUpSe": [
+        1.264,
+        0.168
+      ]
+    },
+    "NoteheadCircledBlackLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.004,
+        0.0
+      ],
+      "StemUpSe": [
+        1.66,
+        0.0
+      ]
+    },
+    "NoteheadCircledDoubleWhole": {
+      "NoteheadOrigin": [
+        0.356,
+        0.0
+      ]
+    },
+    "NoteheadCircledDoubleWholeLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        2.216,
+        -0.004
+      ]
+    },
+    "NoteheadCircledHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.072,
+        -0.144
+      ],
+      "StemUpSe": [
+        1.244,
+        0.156
+      ]
+    },
+    "NoteheadCircledHalfLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.612,
+        0.0
+      ]
+    },
+    "NoteheadCircledWholeLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.004
+      ],
+      "StemUpSe": [
+        2.164,
+        -0.004
+      ]
+    },
+    "NoteheadCircledXLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.828,
+        0.0
+      ]
+    },
+    "NoteheadClusterDoubleWhole2Nd": {
+      "NoteheadOrigin": [
+        0.36,
+        0.0
+      ]
+    },
+    "NoteheadClusterDoubleWhole3Rd": {
+      "NoteheadOrigin": [
+        0.364,
+        0.0
+      ]
+    },
+    "NoteheadClusterHalf2Nd": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.16
+      ],
+      "StemUpSe": [
+        1.24,
+        0.652
+      ]
+    },
+    "NoteheadClusterHalf3Rd": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.164
+      ],
+      "StemUpSe": [
+        1.264,
+        1.144
+      ]
+    },
+    "NoteheadClusterHalfBottom": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.164
+      ],
+      "StemUpSe": null
+    },
+    "NoteheadClusterHalfTop": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": [
+        1.196,
+        0.16
+      ]
+    },
+    "NoteheadClusterQuarter2Nd": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.06
+      ],
+      "StemUpSe": [
+        1.308,
+        0.448
+      ]
+    },
+    "NoteheadClusterQuarter3Rd": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.26
+      ],
+      "StemUpSe": [
+        1.44,
+        0.744
+      ]
+    },
+    "NoteheadClusterQuarterBottom": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.2
+      ],
+      "StemUpSe": null
+    },
+    "NoteheadClusterQuarterTop": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": [
+        1.18,
+        0.168
+      ]
+    },
+    "NoteheadClusterRoundBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.344
+      ],
+      "StemUpSe": [
+        1.328,
+        2.624
+      ]
+    },
+    "NoteheadClusterRoundWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.5
+      ],
+      "StemUpSe": [
+        1.496,
+        2.552
+      ]
+    },
+    "NoteheadClusterSquareBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.328,
+        3.0
+      ]
+    },
+    "NoteheadClusterSquareWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.328,
+        3.0
+      ]
+    },
+    "NoteheadDiamondBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.0,
+        0.0
+      ]
+    },
+    "NoteheadDiamondBlackOld": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.008
+      ],
+      "StemUpSe": [
+        1.16,
+        -0.012
+      ]
+    },
+    "NoteheadDiamondBlackWide": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.4,
+        0.0
+      ]
+    },
+    "NoteheadDiamondClusterBlack2Nd": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.516
+      ],
+      "StemUpSe": [
+        1.068,
+        0.984
+      ]
+    },
+    "NoteheadDiamondClusterBlack3Rd": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.528
+      ],
+      "StemUpSe": [
+        1.096,
+        1.472
+      ]
+    },
+    "NoteheadDiamondClusterBlackBottom": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.08
+      ],
+      "StemUpSe": null
+    },
+    "NoteheadDiamondClusterBlackTop": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": [
+        1.372,
+        -0.212
+      ]
+    },
+    "NoteheadDiamondClusterWhite2Nd": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.524
+      ],
+      "StemUpSe": [
+        1.06,
+        0.98
+      ]
+    },
+    "NoteheadDiamondClusterWhite3Rd": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.532
+      ],
+      "StemUpSe": [
+        1.092,
+        1.468
+      ]
+    },
+    "NoteheadDiamondClusterWhiteBottom": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.06
+      ],
+      "StemUpSe": null
+    },
+    "NoteheadDiamondClusterWhiteTop": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": null,
+      "StemUpSe": [
+        1.168,
+        -0.064
+      ]
+    },
+    "NoteheadDiamondDoubleWhole": {
+      "NoteheadOrigin": [
+        0.324,
+        0.0
+      ]
+    },
+    "NoteheadDiamondDoubleWholeOld": {
+      "NoteheadOrigin": [
+        0.388,
+        0.0
+      ]
+    },
+    "NoteheadDiamondHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.004,
+        0.0
+      ]
+    },
+    "NoteheadDiamondHalfFilled": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.004
+      ],
+      "StemUpSe": [
+        1.156,
+        -0.016
+      ]
+    },
+    "NoteheadDiamondHalfOld": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.008
+      ],
+      "StemUpSe": [
+        1.164,
+        -0.012
+      ]
+    },
+    "NoteheadDiamondHalfWide": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.404,
+        0.0
+      ]
+    },
+    "NoteheadDiamondOpen": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.028
+      ],
+      "StemUpSe": [
+        1.152,
+        -0.02
+      ]
+    },
+    "NoteheadDiamondWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.0,
+        0.0
+      ]
+    },
+    "NoteheadDiamondWhiteWide": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.004
+      ],
+      "StemUpSe": [
+        1.4,
+        0.0
+      ]
+    },
+    "NoteheadDoubleWhole": {
+      "NoteheadOrigin": [
+        0.36,
+        0.0
+      ]
+    },
+    "NoteheadDoubleWholeOversized": {
+      "NoteheadOrigin": [
+        0.392,
+        0.0
+      ]
+    },
+    "NoteheadDoubleWholeWithX": {
+      "NoteheadOrigin": [
+        0.356,
+        0.0
+      ]
+    },
+    "NoteheadHalf": {
+      "cutOutNW": [
+        0.204,
+        0.796
+      ],
+      "cutOutSE": [
+        0.98,
+        0.2
+      ],
+      "splitStemDownNE": [
+        0.956,
+        -0.3
+      ],
+      "splitStemDownNW": [
+        0.128,
+        -0.428
+      ],
+      "splitStemUpSE": [
+        1.108,
+        0.372
+      ],
+      "splitStemUpSW": [
+        0.328,
+        0.38
+      ],
+      "stemDownNW": [
+        0.0,
+        -0.168
+      ],
+      "stemUpSE": [
+        1.18,
+        0.168
+      ]
+    },
+    "NoteheadHalfOversized": {
+      "splitStemDownNE": [
+        1.028,
+        -0.368
+      ],
+      "splitStemDownNW": [
+        0.108,
+        -0.448
+      ],
+      "splitStemUpSE": [
+        1.216,
+        0.436
+      ],
+      "splitStemUpSW": [
+        0.316,
+        0.392
+      ],
+      "stemDownNW": [
+        0.0,
+        -0.196
+      ],
+      "stemUpSE": [
+        1.316,
+        0.184
+      ]
+    },
+    "NoteheadHalfSmall": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.196
+      ],
+      "StemUpSe": [
+        1.364,
+        0.192
+      ]
+    },
+    "NoteheadHalfWithX": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.168
+      ],
+      "StemUpSe": [
+        1.176,
+        0.164
+      ]
+    },
+    "NoteheadHeavyX": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.436
+      ],
+      "StemUpSe": [
+        1.54,
+        0.44
+      ]
+    },
+    "NoteheadHeavyXHat": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.436
+      ],
+      "StemUpSe": [
+        1.54,
+        0.456
+      ]
+    },
+    "NoteheadLargeArrowDownBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        1.0
+      ],
+      "StemUpSe": [
+        1.328,
+        1.0
+      ]
+    },
+    "NoteheadLargeArrowDownDoubleWhole": {
+      "NoteheadOrigin": [
+        0.388,
+        0.0
+      ]
+    },
+    "NoteheadLargeArrowDownHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.948
+      ],
+      "StemUpSe": [
+        1.44,
+        0.944
+      ]
+    },
+    "NoteheadLargeArrowUpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.328,
+        -0.5
+      ]
+    },
+    "NoteheadLargeArrowUpDoubleWhole": {
+      "NoteheadOrigin": [
+        0.388,
+        0.0
+      ]
+    },
+    "NoteheadLargeArrowUpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.444
+      ],
+      "StemUpSe": [
+        1.44,
+        -0.444
+      ]
+    },
+    "NoteheadMoonBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.26,
+        0.0
+      ]
+    },
+    "NoteheadMoonWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.26,
+        0.0
+      ]
+    },
+    "NoteheadPlusBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        -0.004,
+        0.0
+      ],
+      "StemUpSe": [
+        0.996,
+        0.0
+      ]
+    },
+    "NoteheadPlusDoubleWhole": {
+      "NoteheadOrigin": [
+        0.372,
+        0.0
+      ]
+    },
+    "NoteheadPlusHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.112
+      ],
+      "StemUpSe": [
+        1.044,
+        0.088
+      ]
+    },
+    "NoteheadRoundBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.004,
+        0.0
+      ]
+    },
+    "NoteheadRoundBlackDoubleSlashed": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.0,
+        0.0
+      ]
+    },
+    "NoteheadRoundBlackLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        2.0,
+        0.0
+      ]
+    },
+    "NoteheadRoundBlackSlashed": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        0.996,
+        0.0
+      ]
+    },
+    "NoteheadRoundBlackSlashedLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        2.004,
+        0.0
+      ]
+    },
+    "NoteheadRoundWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.004,
+        0.0
+      ],
+      "StemUpSe": [
+        1.004,
+        0.0
+      ]
+    },
+    "NoteheadRoundWhiteDoubleSlashed": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.0,
+        0.0
+      ]
+    },
+    "NoteheadRoundWhiteLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        2.0,
+        0.0
+      ]
+    },
+    "NoteheadRoundWhiteSlashed": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        0.996,
+        0.0
+      ]
+    },
+    "NoteheadRoundWhiteSlashedLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        2.004,
+        0.0
+      ]
+    },
+    "NoteheadRoundWhiteWithDot": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.004,
+        0.0
+      ]
+    },
+    "NoteheadRoundWhiteWithDotLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        2.004,
+        0.0
+      ]
+    },
+    "NoteheadSlashDiamondWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        2.0,
+        0.0
+      ]
+    },
+    "NoteheadSlashHorizontalEnds": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -1.0
+      ],
+      "StemUpSe": [
+        2.12,
+        1.0
+      ]
+    },
+    "NoteheadSlashHorizontalEndsMuted": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -1.0
+      ],
+      "StemUpSe": [
+        2.12,
+        1.0
+      ]
+    },
+    "NoteheadSlashVerticalEnds": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.664
+      ],
+      "StemUpSe": [
+        1.46,
+        0.656
+      ]
+    },
+    "NoteheadSlashVerticalEndsMuted": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.664
+      ],
+      "StemUpSe": [
+        1.46,
+        0.656
+      ]
+    },
+    "NoteheadSlashVerticalEndsSmall": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.256
+      ],
+      "StemUpSe": [
+        0.732,
+        0.244
+      ]
+    },
+    "NoteheadSlashWhiteHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -1.0
+      ],
+      "StemUpSe": [
+        3.12,
+        1.0
+      ]
+    },
+    "NoteheadSlashWhiteMuted": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -1.0
+      ],
+      "StemUpSe": [
+        3.12,
+        1.0
+      ]
+    },
+    "NoteheadSlashX": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -1.0
+      ],
+      "StemUpSe": [
+        2.12,
+        1.0
+      ]
+    },
+    "NoteheadSlashedBlack1": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.172
+      ],
+      "StemUpSe": [
+        1.18,
+        0.164
+      ]
+    },
+    "NoteheadSlashedBlack2": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.172
+      ],
+      "StemUpSe": [
+        1.18,
+        0.164
+      ]
+    },
+    "NoteheadSlashedDoubleWhole1": {
+      "NoteheadOrigin": [
+        0.356,
+        0.0
+      ]
+    },
+    "NoteheadSlashedDoubleWhole2": {
+      "NoteheadOrigin": [
+        0.356,
+        0.0
+      ]
+    },
+    "NoteheadSlashedHalf1": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.168
+      ],
+      "StemUpSe": [
+        1.168,
+        0.164
+      ]
+    },
+    "NoteheadSlashedHalf2": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.164
+      ],
+      "StemUpSe": [
+        1.172,
+        0.168
+      ]
+    },
+    "NoteheadSquareBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.252,
+        0.5
+      ]
+    },
+    "NoteheadSquareBlackLarge": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        2.0,
+        0.0
+      ]
+    },
+    "NoteheadSquareBlackWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -1.0
+      ],
+      "StemUpSe": [
+        2.0,
+        1.0
+      ]
+    },
+    "NoteheadSquareWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.252,
+        0.5
+      ]
+    },
+    "NoteheadTriangleDownBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.5
+      ],
+      "StemUpSe": [
+        1.168,
+        0.5
+      ]
+    },
+    "NoteheadTriangleDownDoubleWhole": {
+      "NoteheadOrigin": [
+        0.384,
+        0.0
+      ]
+    },
+    "NoteheadTriangleDownHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.464
+      ],
+      "StemUpSe": [
+        1.14,
+        0.464
+      ]
+    },
+    "NoteheadTriangleDownWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.5
+      ],
+      "StemUpSe": [
+        1.172,
+        0.5
+      ]
+    },
+    "NoteheadTriangleLeftBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.356,
+        -0.5
+      ]
+    },
+    "NoteheadTriangleLeftWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.356,
+        -0.5
+      ]
+    },
+    "NoteheadTriangleRightBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.356,
+        0.5
+      ]
+    },
+    "NoteheadTriangleRightWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.356,
+        0.5
+      ]
+    },
+    "NoteheadTriangleRoundDownBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.312
+      ],
+      "StemUpSe": [
+        1.112,
+        0.312
+      ]
+    },
+    "NoteheadTriangleRoundDownWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.312
+      ],
+      "StemUpSe": [
+        1.112,
+        0.312
+      ]
+    },
+    "NoteheadTriangleUpBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.172,
+        -0.5
+      ]
+    },
+    "NoteheadTriangleUpDoubleWhole": {
+      "NoteheadOrigin": [
+        0.34,
+        0.0
+      ]
+    },
+    "NoteheadTriangleUpHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.46
+      ],
+      "StemUpSe": [
+        1.14,
+        -0.46
+      ]
+    },
+    "NoteheadTriangleUpRightBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.5
+      ],
+      "StemUpSe": [
+        1.356,
+        0.5
+      ]
+    },
+    "NoteheadTriangleUpRightWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.5
+      ],
+      "StemUpSe": [
+        1.356,
+        0.5
+      ]
+    },
+    "NoteheadTriangleUpWhite": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.5
+      ],
+      "StemUpSe": [
+        1.172,
+        -0.5
+      ]
+    },
+    "NoteheadVoidWithX": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.148
+      ],
+      "StemUpSe": [
+        1.156,
+        0.148
+      ]
+    },
+    "NoteheadWhole": {
+      "CutOutNw": [
+        0.172,
+        0.832
+      ],
+      "CutOutSe": [
+        1.532,
+        0.136
+      ],
+      "CutOutSw": null,
+      "CutOutNe": null
+    },
+    "NoteheadXBlack": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.44
+      ],
+      "StemUpSe": [
+        1.16,
+        0.444
+      ]
+    },
+    "NoteheadXDoubleWhole": {
+      "NoteheadOrigin": [
+        0.348,
+        0.0
+      ]
+    },
+    "NoteheadXHalf": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.412
+      ],
+      "StemUpSe": [
+        1.336,
+        0.412
+      ]
+    },
+    "NoteheadXOrnate": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        -0.312
+      ],
+      "StemUpSe": [
+        0.988,
+        0.316
+      ]
+    },
+    "NoteheadXOrnateEllipse": {
+      "StemDownSw": null,
+      "StemUpNw": null,
+      "StemDownNw": [
+        0.0,
+        0.0
+      ],
+      "StemUpSe": [
+        1.532,
+        0.0
+      ]
+    },
+    "OrnamentBottomLeftConcaveStroke": {
+      "RepeatOffset": [
+        0.46,
+        0.0
+      ]
+    },
+    "OrnamentBottomLeftConcaveStrokeLarge": {
+      "RepeatOffset": [
+        1.912,
+        0.0
+      ]
+    },
+    "OrnamentBottomLeftConvexStroke": {
+      "RepeatOffset": [
+        1.624,
+        0.0
+      ]
+    },
+    "OrnamentHighLeftConcaveStroke": {
+      "RepeatOffset": [
+        1.716,
+        0.0
+      ]
+    },
+    "OrnamentHighLeftConvexStroke": {
+      "RepeatOffset": [
+        1.112,
+        0.0
+      ]
+    },
+    "OrnamentLeftPlus": {
+      "RepeatOffset": [
+        2.784,
+        0.0
+      ]
+    },
+    "OrnamentLeftShakeT": {
+      "RepeatOffset": [
+        0.924,
+        0.0
+      ]
+    },
+    "OrnamentLeftVerticalStroke": {
+      "RepeatOffset": [
+        0.74,
+        0.0
+      ]
+    },
+    "OrnamentLeftVerticalStrokeWithCross": {
+      "RepeatOffset": [
+        1.152,
+        0.0
+      ]
+    },
+    "OrnamentLowLeftConcaveStroke": {
+      "RepeatOffset": [
+        1.532,
+        0.0
+      ]
+    },
+    "OrnamentLowLeftConvexStroke": {
+      "RepeatOffset": [
+        1.344,
+        0.0
+      ]
+    },
+    "OrnamentMiddleVerticalStroke": {
+      "RepeatOffset": [
+        0.004,
+        0.0
+      ]
+    },
+    "OrnamentTopLeftConcaveStroke": {
+      "RepeatOffset": [
+        1.396,
+        0.0
+      ]
+    },
+    "OrnamentTopLeftConvexStroke": {
+      "RepeatOffset": [
+        1.132,
+        0.0
+      ]
+    },
+    "OrnamentZigZagLineNoRightEnd": {
+      "RepeatOffset": [
+        1.048,
+        0.0
+      ]
+    },
+    "OrnamentZigZagLineWithRightEnd": {
+      "RepeatOffset": [
+        1.428,
+        0.0
+      ]
+    },
+    "WiggleArpeggiatoDown": {
+      "RepeatOffset": [
+        1.02,
+        0.0
+      ]
+    },
+    "WiggleArpeggiatoDownArrow": {
+      "RepeatOffset": [
+        2.064,
+        0.0
+      ]
+    },
+    "WiggleArpeggiatoDownSwash": {
+      "RepeatOffset": [
+        1.784,
+        0.0
+      ]
+    },
+    "WiggleArpeggiatoUp": {
+      "RepeatOffset": [
+        1.02,
+        0.0
+      ]
+    },
+    "WiggleArpeggiatoUpArrow": {
+      "RepeatOffset": [
+        2.064,
+        0.0
+      ]
+    },
+    "WiggleArpeggiatoUpSwash": {
+      "RepeatOffset": [
+        2.116,
+        0.0
+      ]
+    },
+    "WiggleCircular": {
+      "RepeatOffset": [
+        1.836,
+        0.0
+      ]
+    },
+    "WiggleCircularConstant": {
+      "RepeatOffset": [
+        1.072,
+        0.0
+      ]
+    },
+    "WiggleCircularConstantFlipped": {
+      "RepeatOffset": [
+        1.072,
+        0.0
+      ]
+    },
+    "WiggleCircularConstantFlippedLarge": {
+      "RepeatOffset": [
+        2.184,
+        0.0
+      ]
+    },
+    "WiggleCircularConstantLarge": {
+      "RepeatOffset": [
+        2.184,
+        0.0
+      ]
+    },
+    "WiggleCircularEnd": {
+      "RepeatOffset": [
+        0.648,
+        0.0
+      ]
+    },
+    "WiggleCircularLarge": {
+      "RepeatOffset": [
+        1.724,
+        0.0
+      ]
+    },
+    "WiggleCircularLarger": {
+      "RepeatOffset": [
+        2.332,
+        0.0
+      ]
+    },
+    "WiggleCircularLargerStill": {
+      "RepeatOffset": [
+        2.964,
+        0.0
+      ]
+    },
+    "WiggleCircularLargest": {
+      "RepeatOffset": [
+        4.592,
+        0.0
+      ]
+    },
+    "WiggleCircularSmall": {
+      "RepeatOffset": [
+        1.34,
+        0.0
+      ]
+    },
+    "WiggleCircularStart": {
+      "RepeatOffset": [
+        1.92,
+        0.0
+      ]
+    },
+    "WiggleGlissando": {
+      "RepeatOffset": [
+        1.032,
+        0.0
+      ]
+    },
+    "WiggleGlissandoGroup1": {
+      "RepeatOffset": [
+        1.224,
+        0.0
+      ]
+    },
+    "WiggleGlissandoGroup2": {
+      "RepeatOffset": [
+        0.5,
+        0.0
+      ]
+    },
+    "WiggleGlissandoGroup3": {
+      "RepeatOffset": [
+        0.5,
+        0.0
+      ]
+    },
+    "WiggleRandom1": {
+      "RepeatOffset": [
+        7.976,
+        0.0
+      ]
+    },
+    "WiggleRandom2": {
+      "RepeatOffset": [
+        7.976,
+        0.0
+      ]
+    },
+    "WiggleRandom3": {
+      "RepeatOffset": [
+        7.976,
+        0.0
+      ]
+    },
+    "WiggleRandom4": {
+      "RepeatOffset": [
+        7.976,
+        0.0
+      ]
+    },
+    "WiggleSawtooth": {
+      "RepeatOffset": [
+        2.992,
+        0.0
+      ]
+    },
+    "WiggleSawtoothNarrow": {
+      "RepeatOffset": [
+        1.996,
+        0.0
+      ]
+    },
+    "WiggleSawtoothWide": {
+      "RepeatOffset": [
+        4,
+        0
+      ]
+    },
+    "WiggleSquareWave": {
+      "RepeatOffset": [
+        3,
+        0
+      ]
+    },
+    "WiggleSquareWaveNarrow": {
+      "RepeatOffset": [
+        2,
+        0
+      ]
+    },
+    "WiggleSquareWaveWide": {
+      "RepeatOffset": [
+        4,
+        0
+      ]
+    },
+    "WiggleTrill": {
+      "RepeatOffset": [
+        0.948,
+        0.0
+      ]
+    },
+    "WiggleTrillFast": {
+      "RepeatOffset": [
+        0.804,
+        0.0
+      ]
+    },
+    "WiggleTrillFaster": {
+      "RepeatOffset": [
+        0.612,
+        0.0
+      ]
+    },
+    "WiggleTrillFasterStill": {
+      "RepeatOffset": [
+        0.512,
+        0.0
+      ]
+    },
+    "WiggleTrillFastest": {
+      "RepeatOffset": [
+        0.52,
+        0.0
+      ]
+    },
+    "WiggleTrillSlow": {
+      "RepeatOffset": [
+        1.088,
+        0.0
+      ]
+    },
+    "WiggleTrillSlower": {
+      "RepeatOffset": [
+        1.3,
+        0.0
+      ]
+    },
+    "WiggleTrillSlowerStill": {
+      "RepeatOffset": [
+        1.46,
+        0.0
+      ]
+    },
+    "WiggleTrillSlowest": {
+      "RepeatOffset": [
+        2.016,
+        0.0
+      ]
+    },
+    "WiggleVIbratoLargestSlower": {
+      "RepeatOffset": [
+        3.828,
+        0.0
+      ]
+    },
+    "WiggleVIbratoMediumSlower": {
+      "RepeatOffset": [
+        1.688,
+        0.0
+      ]
+    },
+    "WiggleVibrato": {
+      "RepeatOffset": [
+        0.608,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargeFast": {
+      "RepeatOffset": [
+        1.76,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargeFaster": {
+      "RepeatOffset": [
+        1.504,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargeFasterStill": {
+      "RepeatOffset": [
+        1.264,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargeFastest": {
+      "RepeatOffset": [
+        1.044,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargeSlow": {
+      "RepeatOffset": [
+        2.156,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargeSlower": {
+      "RepeatOffset": [
+        2.592,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargeSlowest": {
+      "RepeatOffset": [
+        3.052,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargestFast": {
+      "RepeatOffset": [
+        2.656,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargestFaster": {
+      "RepeatOffset": [
+        2.244,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargestFasterStill": {
+      "RepeatOffset": [
+        1.884,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargestFastest": {
+      "RepeatOffset": [
+        1.54,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargestSlow": {
+      "RepeatOffset": [
+        3.164,
+        0.0
+      ]
+    },
+    "WiggleVibratoLargestSlowest": {
+      "RepeatOffset": [
+        4.536,
+        0.0
+      ]
+    },
+    "WiggleVibratoMediumFast": {
+      "RepeatOffset": [
+        1.18,
+        0.0
+      ]
+    },
+    "WiggleVibratoMediumFaster": {
+      "RepeatOffset": [
+        0.968,
+        0.0
+      ]
+    },
+    "WiggleVibratoMediumFasterStill": {
+      "RepeatOffset": [
+        0.828,
+        0.0
+      ]
+    },
+    "WiggleVibratoMediumFastest": {
+      "RepeatOffset": [
+        0.74,
+        0.0
+      ]
+    },
+    "WiggleVibratoMediumSlow": {
+      "RepeatOffset": [
+        1.384,
+        0.0
+      ]
+    },
+    "WiggleVibratoMediumSlowest": {
+      "RepeatOffset": [
+        2,
+        0
+      ]
+    },
+    "WiggleVibratoSmallFast": {
+      "RepeatOffset": [
+        0.86,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallFaster": {
+      "RepeatOffset": [
+        0.716,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallFasterStill": {
+      "RepeatOffset": [
+        0.62,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallFastest": {
+      "RepeatOffset": [
+        0.544,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallSlow": {
+      "RepeatOffset": [
+        1.008,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallSlower": {
+      "RepeatOffset": [
+        1.164,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallSlowest": {
+      "RepeatOffset": [
+        1.5,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallestFast": {
+      "RepeatOffset": [
+        0.7,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallestFaster": {
+      "RepeatOffset": [
+        0.584,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallestFasterStill": {
+      "RepeatOffset": [
+        0.536,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallestFastest": {
+      "RepeatOffset": [
+        0.48,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallestSlow": {
+      "RepeatOffset": [
+        0.832,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallestSlower": {
+      "RepeatOffset": [
+        0.988,
+        0.0
+      ]
+    },
+    "WiggleVibratoSmallestSlowest": {
+      "RepeatOffset": [
+        1.148,
+        0.0
+      ]
+    },
+    "WiggleVibratoStart": {
+      "RepeatOffset": [
+        1.808,
+        0.0
+      ]
+    },
+    "WiggleVibratoWide": {
+      "RepeatOffset": [
+        0.82,
+        0.0
+      ]
+    },
+    "WiggleWavy": {
+      "RepeatOffset": [
+        3,
+        0
+      ]
+    },
+    "WiggleWavyNarrow": {
+      "RepeatOffset": [
+        2,
+        0
+      ]
+    },
+    "WiggleWavyWide": {
+      "RepeatOffset": [
+        4,
+        0
+      ]
+    }
+  }
+
+}

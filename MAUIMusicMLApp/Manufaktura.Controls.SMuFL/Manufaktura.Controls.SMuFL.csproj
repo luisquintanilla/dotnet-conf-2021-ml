@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-android</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Description>Enables SMuFL font support in Manufaktura Controls library</Description>
+    <Version>1.2.2</Version>
+    <Copyright>Manufaktura Programów Jacek Salamon 2018</Copyright>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>http://musicengravingcontrols.com/</PackageProjectUrl>
+    <PackageIconUrl>http://manufaktura-programow.pl/Images/ManufakturaSmaller.png</PackageIconUrl>
+    <RepositoryUrl>https://bitbucket.org/Ajcek/manufakturalibraries</RepositoryUrl>
+    <PackageTags>music .net smufl font</PackageTags>
+    <PackageReleaseNotes>Rendering corrections</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="glyphnames.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="glyphnames.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+    <PackageReference Include="SharpSerializer" Version="3.0.1" />
+    <PackageReference Include="System.Runtime.Serialization.Primitives" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Manufaktura.Controls\Manufaktura.Controls.csproj" />
+    <ProjectReference Include="..\Manufaktura.Core.Serialization\Manufaktura.Core.Serialization.csproj" />
+    <ProjectReference Include="..\Manufaktura.Core\Manufaktura.Core.csproj" />
+  </ItemGroup>
+
+</Project>

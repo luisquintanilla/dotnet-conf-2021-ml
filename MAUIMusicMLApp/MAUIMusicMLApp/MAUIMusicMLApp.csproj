@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFrameworks>net6.0-ios;net6.0-android;net6.0-maccatalyst</TargetFrameworks>
+		<TargetFrameworks>net6.0-android</TargetFrameworks>
 		<!-- <TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows')) and '$(MSBuildRuntimeType)' == 'Full'">$(TargetFrameworks);net6.0-windows10.0.19041</TargetFrameworks> -->
 		<OutputType>Exe</OutputType>
 		<RootNamespace>MAUIMusicMLApp</RootNamespace>
@@ -21,10 +21,10 @@
 		<!-- Required for C# Hot Reload -->
 		<UseInterpreter Condition="'$(Configuration)' == 'Debug'">True</UseInterpreter>
 
-		<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net6.0-ios'">14.2</SupportedOSPlatformVersion>
-		<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net6.0-maccatalyst'">14.0</SupportedOSPlatformVersion>
+		<!--<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net6.0-ios'">14.2</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net6.0-maccatalyst'">14.0</SupportedOSPlatformVersion>-->
 		<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net6.0-android'">21.0</SupportedOSPlatformVersion>
-		<SupportedOSPlatformVersion Condition="$(TargetFramework.Contains('-windows'))">10.0.18362.0</SupportedOSPlatformVersion>
+		<!--<SupportedOSPlatformVersion Condition="$(TargetFramework.Contains('-windows'))">10.0.18362.0</SupportedOSPlatformVersion>-->
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -45,6 +45,27 @@
 		<MauiFont Include="Resources\Fonts\*" />
 	</ItemGroup>
 
+	<ItemGroup>
+		<EmbeddedResource Include="Resources\Bravura.otf" />
+		<!--<EmbeddedResource Include="Resources\bravura_metadata.bin" />-->
+		<EmbeddedResource Include="Resources\bravura_metadata.json" />
+		<EmbeddedResource Include="Resources\melody-damaged-repaired.mid" />
+		<EmbeddedResource Include="Resources\melody-damaged.mid" />
+		<EmbeddedResource Include="Resources\melody-very-damaged-repaired.mid" />
+		<EmbeddedResource Include="Resources\melody-very-damaged.json" />
+		<EmbeddedResource Include="Resources\melody-very-damaged.mid" />
+		<EmbeddedResource Include="Resources\NotePredictor.zip">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</EmbeddedResource>
+	</ItemGroup>
+
+  <ItemGroup>
+		<PackageReference Include="Microsoft.ML" Version="1.7.0-preview.final" />
+		<PackageReference Include="Microsoft.ML.LightGbm" Version="1.7.0-preview.final" />
+		<PackageReference Include="SkiaSharp.Views.Maui.Controls" Version="2.88.0-preview.155" />
+		<PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.5.0" />
+	</ItemGroup>
+
 	<ItemGroup Condition="$(TargetFramework.Contains('-windows'))">
 		<!-- Required - WinUI does not yet have buildTransitive for everything -->
 		<PackageReference Include="Microsoft.WindowsAppSDK" Version="1.0.0-experimental1" />
@@ -54,9 +75,13 @@
 		<PackageReference Include="Microsoft.Graphics.Win2D" Version="1.0.0.26-experimental1" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\Manufaktura.Controls.SMuFL\Manufaktura.Controls.SMuFL.csproj" />
+	  <ProjectReference Include="..\Manufaktura.Controls.XamarinFormsSkia\Manufaktura.Controls.XamarinFormsSkia.csproj" />
+	</ItemGroup>
+
 	<PropertyGroup Condition="$(TargetFramework.Contains('-windows'))">
 		<OutputType>WinExe</OutputType>
 		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
 	</PropertyGroup>
-	
 </Project>

@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net6.0-android</TargetFrameworks>
+		<AssemblyVersion>1.4.1.0</AssemblyVersion>
+		<FileVersion>1.4.1.0</FileVersion>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Description>The best open source multiplatform music notation library for .NET</Description>
+		<Copyright>Manufaktura Programów Jacek  Salamon 2018</Copyright>
+		<PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+		<PackageProjectUrl>http://musicengravingcontrols.com/</PackageProjectUrl>
+		<PackageIconUrl>http://manufaktura-programow.pl/Images/ManufakturaSmaller.png</PackageIconUrl>
+		<RepositoryUrl>https://bitbucket.org/Ajcek/manufakturalibraries</RepositoryUrl>
+		<PackageTags>music .net controls</PackageTags>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<Version>1.4.2</Version>
+		<PackageReleaseNotes>Rendering corrections</PackageReleaseNotes>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Manufaktura.Core\Manufaktura.Core.csproj" />
+		<ProjectReference Include="..\Manufaktura.Music\Manufaktura.Music.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Properties\" />
+	</ItemGroup>
+
+	<!--<ItemGroup>
+		<PackageReference Include="System.Runtime.Serialization.Primitives" Version="4.1.1" />
+	</ItemGroup>-->
+
+</Project>

@@ -1,0 +1,585 @@
+[
+  {
+    "Notes": [
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 76,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 15,
+        "Duration": 2,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 68,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 68,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 8,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 64,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 6,
+        "IsRepaired": false
+      },
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 8,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 74,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 3,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 74,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 11,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 15,
+        "Duration": 2,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 68,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 6,
+        "IsRepaired": false
+      },
+      {
+        "Note": 64,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 76,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 8,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 76,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 6,
+        "IsRepaired": false
+      },
+      {
+        "Note": 79,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 77,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 76,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 15,
+        "Duration": 2,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 8,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 76,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 74,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 15,
+        "Duration": 2,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 74,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 72,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 68,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 68,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 8,
+        "IsRepaired": false
+      },
+      {
+        "Note": 64,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 0,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 71,
+        "Velocity": 127,
+        "Position": 5,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 7,
+        "Duration": 2,
+        "IsRepaired": false
+      },
+      {
+        "Note": 68,
+        "Velocity": 127,
+        "Position": 9,
+        "Duration": 4,
+        "IsRepaired": false
+      },
+      {
+        "Note": 68,
+        "Velocity": 127,
+        "Position": 13,
+        "Duration": 4,
+        "IsRepaired": false
+      }
+    ]
+  },
+  {
+    "Notes": [
+      {
+        "Note": 69,
+        "Velocity": 127,
+        "Position": 1,
+        "Duration": 16,
+        "IsRepaired": false
+      }
+    ]
+  }
+]
